@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+You are creating the actual git repository so git can store the commits
+
