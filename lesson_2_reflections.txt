@@ -2,3 +2,6 @@ What happens when you initialize a repository? Why do you need to do it?
 
 You are creating the actual git repository so git can store the commits
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is separate from the umbrella, or working directory, and the repository.  It's value is in allowing you to choose which files are added to a commit.
